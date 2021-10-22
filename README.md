@@ -3,7 +3,7 @@
   - TwoTrees - Sapphire Pro (core XY)
   - BTT SKR 1.4 Turbo (or not turbo) - 24v power
   - With 4x TMC2209 (UART)
-  - Touch screen BTT TFT32 V2 (Also configured to connect "REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER")
+  - Touch screen BTT TFT32 V2 (Also configured to add "REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER")
   - BLTouch (Expects an BLTouch endstop on the Z axis (Z min endstop))
   - Neopixel (12 leds)
 
