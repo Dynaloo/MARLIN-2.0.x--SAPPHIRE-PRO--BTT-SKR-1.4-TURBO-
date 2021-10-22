@@ -1,7 +1,7 @@
 # Configuring Printer
 
   - TwoTrees - Sapphire Pro
-  - BTT SKR 1.4 Turbo (or not turbo)
+  - BTT SKR 1.4 Turbo (or not turbo) - 24v power
   - With 4x TMC2209 (UART)
   - Touch screen BTT TFT32 V2 (possible connect Reprap screen)
   - BLTouch (Expects an BLTouch endstop on the Z axis (Z min endstop))
