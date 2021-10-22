@@ -7,8 +7,9 @@
   - BLTouch (Expects an BLTouch endstop on the Z axis (Z min endstop))
   - Neopixel (12 leds)
 
-# More information about the BTT SKR 1.4
-Please refer to ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg).
+# More information about the BTT SKR 1.4 and Touch screen TFT32
+
+Please refer to [Github Bigtreetech](https://github.com/bigtreetech).
 
 # Marlin 3D Printer Firmware
 
