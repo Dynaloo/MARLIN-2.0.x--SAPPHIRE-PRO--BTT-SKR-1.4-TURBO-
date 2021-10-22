@@ -3,7 +3,7 @@
   - TwoTrees - Sapphire Pro
   - BTT SKR 1.4 Turbo (or not turbo)
   - Touch screen BTT TFT32 V2 (possible connect Reprap screen)
-  - BLTouch
+  - BLTouch (Expects an BLTouch endstop on the Z axis (Z min endstop))
   - Neopixel (12 leds)
 
 # Marlin 3D Printer Firmware
