@@ -1,8 +1,8 @@
 # Configuring Printer
 
-TwoTrees - Sapphire Pro
-BLTouch
-Neopixel (12 leds)
+  - TwoTrees - Sapphire Pro
+  - BLTouch
+  - Neopixel (12 leds)
 
 # Marlin 3D Printer Firmware
 
