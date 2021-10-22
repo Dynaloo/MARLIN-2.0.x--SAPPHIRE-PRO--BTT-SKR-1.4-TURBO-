@@ -2,6 +2,7 @@
 
   - TwoTrees - Sapphire Pro
   - BTT SKR 1.4 Turbo (or not turbo)
+  - With 4x TMC2209 (UART)
   - Touch screen BTT TFT32 V2 (possible connect Reprap screen)
   - BLTouch (Expects an BLTouch endstop on the Z axis (Z min endstop))
   - Neopixel (12 leds)
