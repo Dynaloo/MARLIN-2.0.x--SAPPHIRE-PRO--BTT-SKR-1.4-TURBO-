@@ -2,6 +2,7 @@
 
   - TwoTrees - Sapphire Pro
   - BTT SKR 1.4 Turbo (or not turbo)
+  - Touch screen BTT TFT32 V2 (possible connect Reprap screen)
   - BLTouch
   - Neopixel (12 leds)
 
