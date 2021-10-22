@@ -1,3 +1,9 @@
+# Configuring Printer
+
+TwoTrees - Sapphire Pro
+BLTouch
+Neopixel (12 leds)
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
