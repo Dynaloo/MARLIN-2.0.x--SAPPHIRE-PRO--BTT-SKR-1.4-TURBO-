@@ -1,6 +1,7 @@
 # Configuring Printer
 
   - TwoTrees - Sapphire Pro
+  - BTT SKR 1.4 Turbo (or not turbo)
   - BLTouch
   - Neopixel (12 leds)
 
