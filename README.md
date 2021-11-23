@@ -7,7 +7,8 @@
   - BLTouch (Expects an BLTouch endstop on the Z axis (Z min endstop))
   - Neopixel (12 leds)
 
-Enter BLTouch position in configuration.h (ligne 
+Enter your BLTouch position in configuration.h
+  (ligne 1182) #define NOZZLE_TO_PROBE_OFFSET { -30, -2.90, 0 }
 
 # More information about the BTT SKR 1.4 and Touch screen TFT32
 
