@@ -7,6 +7,8 @@
   - BLTouch (Expects an BLTouch endstop on the Z axis (Z min endstop))
   - Neopixel (12 leds)
 
+Enter BLTouch position in configuration.h (ligne 
+
 # More information about the BTT SKR 1.4 and Touch screen TFT32
 
 Please refer to [Github Bigtreetech](https://github.com/bigtreetech).
